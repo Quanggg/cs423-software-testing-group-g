@@ -1,0 +1,6 @@
+﻿username,user_role,employee_name,status,result
+Admin,Admin,,Select,1
+,Select,x%yz,Select,-1
+,Select,,Select,37
+,Select,Alice Duval,Select,1
+ABCDE,Admin,,Enabled,0

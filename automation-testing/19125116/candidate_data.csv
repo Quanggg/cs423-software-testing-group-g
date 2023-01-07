@@ -1,0 +1,8 @@
+fname,mname,lname,vacancy,email,contact,notes
+quang,chau nhat,le,Associate IT Manager,quang01@gma.com,0909123456,"test01"
+,chau nhat,le,,quang02@gma.com,0909123456,"test01"
+quang,,le,Junior Account Assistant,quang03@gma.com,0909123456,"test01"
+quang,chau nhat,,Payroll Administrator,quang04@gma.com,0909123456,"test01"
+quang,chau nhat,le,Senior QA Lead,quang05@gma,0909123456,"test01"
+quang,chau nhat,le,Senior Support Specialist,,0909123456,"test01"
+quang,chau nhat,le,Software Engineer,quang06@gma.com,0909abc456,"test01"
